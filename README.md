@@ -2,7 +2,7 @@
 
 Laboratoria z studiów inżynierskich w folderze /LABS.
 
-## OCENA ZA PRZEDMIOT PRZEPISANA
+## !!__OCENA ZA PRZEDMIOT PRZEPISANA__!!
 
 Laboratoria z studiów magisterskich: https://view.fis.agh.edu.pl/staff/gronek/index.php?sub=padp_cw
 
@@ -16,7 +16,7 @@ albo PGAS
 - Dostęp do 16 hostów w sali laboratoryjnej na uczelnie. Zrealizowano synchronizacje pracy poprzez instrukcje w z pliku: **HostsConfiguration.sh**
 
 ## MÓJ TEMAT PROJEKTU:
-Zrealizowanie systemu wyliczającego najkrótszą ścieżkę w grafie wykorzystująć algorytm kolonii mrówek. Korzystając z technologii MPI
+Zrealizowanie systemu wyliczającego najkrótszą ścieżkę w grafie wykorzystująć algorytm kolonii mrówek. Korzystając z technologii MPI. Na podstawie części wcześniejszego projektu - pracy inżynierskiej: https://github.com/PsimonL/Robot-Motion-Planning/tree/master/Graph_Algorithms/Ant_Colony
 
 ## PROJEKTY:
 1. Monte Carlo - transport neutronów (Quinn, zad. 10.8)
