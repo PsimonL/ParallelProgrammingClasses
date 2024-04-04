@@ -15,7 +15,7 @@ albo PGAS
 (UPC, UPC++, GASPI, XMP, PCJ)
 
 ## MÓJ TEMAT PROJEKTU:
-Zrealizowanie systemu wyliczającego najkrótszą ścieżkę w grafie wykorzystująć algorytm kolonii mrówek. Korzystając z technologii OpenMP
+Zrealizowanie systemu wyliczającego najkrótszą ścieżkę w grafie wykorzystująć algorytm kolonii mrówek. Korzystając z technologii MPI
 
 ## PROJEKTY:
 1. Monte Carlo - transport neutronów (Quinn, zad. 10.8)
