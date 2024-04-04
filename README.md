@@ -13,6 +13,7 @@ Laboratoria z studiów magisterskich: https://view.fis.agh.edu.pl/staff/gronek/i
 (Java RMI/FFI, CORBA)
 albo PGAS
 (UPC, UPC++, GASPI, XMP, PCJ)
+- Dostęp do 16 hostów w sali laboratoryjnej na uczelnie. Zrealizowano synchronizacje pracy poprzez instrukcje w z pliku
 
 ## MÓJ TEMAT PROJEKTU:
 Zrealizowanie systemu wyliczającego najkrótszą ścieżkę w grafie wykorzystująć algorytm kolonii mrówek. Korzystając z technologii MPI
