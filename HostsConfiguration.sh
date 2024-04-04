@@ -10,7 +10,7 @@
 #         w pracowni komputerowej 204 (D-10).
 #
 
-# Logowanie na hosty wydziałowe 
+# Logowanie na konta na hostach wydziałowych (AGH WFiIS) korzystając z personalnych credentiali.
 
 # 0. Przejście do odpowiedniego pliku:
 cd /opt/nfs/config/README.MPI
